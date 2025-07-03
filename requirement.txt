@@ -4,8 +4,5 @@ librosa
 soundfile
 wandb
 
-causal-conv1d==1.2.1
-mamba-ssm==1.2.1
-torch==2.0.1 --index-url https://download.pytorch.org/whl/cu118
-torchaudio==2.0.2 --index-url https://download.pytorch.org/whl/cu118
+torch==2.4.0 torchvision==0.19.0 torchaudio==2.4.0 --index-url https://download.pytorch.org/whl/cu121
 speechbrain==1.0.0
