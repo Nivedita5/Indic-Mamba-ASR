@@ -7,5 +7,3 @@ wandb
 torch==2.4.0
 torchaudio==2.4.0
 speechbrain==1.0.0
-causal_conv1d
-mamba-ssm
