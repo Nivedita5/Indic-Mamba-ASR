@@ -4,6 +4,8 @@ librosa
 soundfile
 wandb
 
-torch==2.4.0
-torchaudio==2.4.0
+torch==2.1.1
+torchaudio==2.1.1
+causal_conv1d==1.1.1
+mamba-ssm==1.2.0.post1
 speechbrain==1.0.0
